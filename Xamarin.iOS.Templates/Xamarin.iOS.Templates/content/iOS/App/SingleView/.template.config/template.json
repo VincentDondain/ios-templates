@@ -1,0 +1,17 @@
+﻿{
+  "author": "Microsoft",
+  "classifications": [ "ios", "app", "general" ],
+  "name": "Single View App",
+  "defaultName": "SingleViewApp1",
+  "description": "Creates a simple, one-page iOS application with a Storyboard that contains the View, and a View Controller class to manage it.\n\nUse this as a starting point for your first iOS application.",
+  "groupIdentity": "Xamarin.iOS.SingleViewApp",
+  "identity": "Xamarin.iOS.SingleViewApp.CSharp",
+  "shortName": "xamios",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "SingleViewApp",
+  "preferNameDirectory": true,
+  "primaryOutputs": [ { "path": "SingleViewApp.csproj" } ],
+}
