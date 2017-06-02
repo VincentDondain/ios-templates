@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>SingleView</string>
+	<string>SingleViewApp</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.xamarin.singleview</string>
 	<key>CFBundleShortVersionString</key>
@@ -13,7 +13,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>10.3</string>
+	<string>$MinimumOSVersion</string>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

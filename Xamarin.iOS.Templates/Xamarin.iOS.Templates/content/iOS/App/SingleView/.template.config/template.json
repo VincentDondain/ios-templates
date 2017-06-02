@@ -13,5 +13,21 @@
   },
   "sourceName": "SingleViewApp",
   "preferNameDirectory": true,
+  "symbols": {
+    "AppIdentifier": {
+      "type": "parameter",
+      "description": "Overrides the Info.plist's CFBundleIdentifier",
+      "replaces": "com.xamarin.singleview",
+      "datatype": "string",
+      "defaultValue": "com.companyname"
+    },
+    "MinimumOSVersion": {
+      "type": "parameter",
+      "description": "Overrides the Info.plist's MinimumOSVersion",
+      "replaces": "$MinimumOSVersion",
+      "datatype": "string",
+      "defaultValue": "8.0"
+    },
+  },
   "primaryOutputs": [ { "path": "SingleViewApp.csproj" } ],
 }
