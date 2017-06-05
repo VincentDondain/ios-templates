@@ -6,8 +6,8 @@
     <ProjectGuid>{101E3060-8799-4119-8A7A-4F86A01C0C84}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SingleView</RootNamespace>
-    <AssemblyName>SingleView</AssemblyName>
+    <RootNamespace>SingleViewApp</RootNamespace>
+    <AssemblyName>SingleViewApp</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
   </PropertyGroup>
   <ItemGroup>

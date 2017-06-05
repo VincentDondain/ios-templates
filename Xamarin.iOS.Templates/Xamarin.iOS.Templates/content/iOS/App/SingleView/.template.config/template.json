@@ -28,6 +28,21 @@
       "datatype": "string",
       "defaultValue": "8.0"
     },
+    "UseUniversal": {
+      "type": "parameter",
+      "dataType": "bool",
+      "defaultValue": "false"
+    },
+    "UseIPhone": {
+      "type": "parameter",
+      "dataType": "bool",
+      "defaultValue": "false"
+    },
+    "UseIPad": {
+      "type": "parameter",
+      "dataType": "bool",
+      "defaultValue": "false"
+    },
   },
   "primaryOutputs": [ { "path": "SingleViewApp.csproj" } ],
 }
